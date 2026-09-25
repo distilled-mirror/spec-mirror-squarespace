@@ -10850,6 +10850,10 @@
         "in": "header",
         "scheme": "bearer",
         "type": "http"
+      },
+      "api_key": {
+        "type": "http",
+        "scheme": "bearer"
       }
     }
   }
