@@ -87,6 +87,8 @@ to optimize and expand their site in a few clicks.
 If you'd like to develop a new Extension,
 start the OAuth client process [here](https://account.squarespace.com/developer-apps).
 Once you've obtained OAuth credentials, you can use our [OAuth 2.0 Guide](/oauth) to learn how to authorize your application to integrate with Squarespace and use Squarespace APIs.
+Registering an OAuth client, and having it reviewed and approved, only allows OAuth connections with Squarespace.
+It doesn't list your application in [Squarespace Extensions](https://www.squarespace.com/extensions/home), which is a separate process.
 
 ## Next steps
 
